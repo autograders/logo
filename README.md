@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Autograders/logo/master/logo/full.png">
+  <img src="https://raw.githubusercontent.com/Autograders/logo/master/logo/graders.png">
 </p>
 
 ### Acknowledgments
